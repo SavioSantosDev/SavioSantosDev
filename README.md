@@ -2,7 +2,7 @@
 
 ## ✨ Eai, meu nome é Sávio. ✨
 
-Sou Baiano e estudante de desenvolvimento de software e design de interfaces. Passo boa parte do tempo estudando conteúdos relacionados a minha área, gosto de música, ler um bom livro e nos tempos livres ver memes e assistir animes e séries. :notes: :v:<br></br>
+Sou Baianor e estudante de desenvolvimento de software e design de interfaces. Passo boa parte do tempo estudando conteúdos relacionados a minha área, gosto de música, ler um bom livro e nos tempos livres ver memes e assistir animes e séries. :notes: :v:<br></br>
 
 ### :star2: Objetivos
 
