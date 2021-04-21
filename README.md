@@ -25,9 +25,9 @@ Atualmente estou focado em aprimorar minhas skills em **Desenvolvimento web** e 
 
 ### Contato 📱
 
-<img title="Linkedin" alt="Linkedin"  src="./icons/linkedin.svg"/> **Linkedin:** <a href="https://www.linkedin.com/in/savio-santos-dev/" target="blank">/in/savio-santos-dev</a>
+<img title="Linkedin" alt="Linkedin"  src="./icons/linkedin.svg"/> **Linkedin:** https://www.linkedin.com/in/savio-santos-dev/
 
-<img title="Instagram" alt="Instagram"  src="./icons/instagram.svg"/> **Instagram:** <a href="https://www.instagram.com/savio_santos.dev/" target="blank">/in/savio-santos-dev</a>
+<img title="Instagram" alt="Instagram"  src="./icons/instagram.svg"/> **Instagram:** https://www.instagram.com/savio_santos.dev/
 
 <img title="E-mail" alt="E-mail"  src="./icons/mail.svg"/> **E-mail:** saviosantosdev@gmail.com
 
